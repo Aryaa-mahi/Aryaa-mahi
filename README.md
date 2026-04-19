@@ -40,7 +40,7 @@
 * 🎨 Designed engaging UI and interactive environments
 * ⚙️ Worked with C# scripting and Unity engine features
 
-**Tech:** Unity, C#
+**Tech:** Unity, C#,
 
 ---
 
